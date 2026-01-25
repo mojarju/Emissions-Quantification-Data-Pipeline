@@ -1,0 +1,17 @@
+{
+"client_operator_name":"ENHANCE ENERGY INC.",
+
+ "gcp_configuration": {
+    "bucket_name": "petrinex_source_data",
+    "bucket_prefix": "alberta",
+    "project_id": "emissionsdashboard",
+    "bigquery_dataset":"staging"
+  },
+
+"local_configuration": {
+    "client_infastructure_folder":"/Users/moadmin/Desktop/Programming_Projects/Petrinex_Analysis/Petrinex Source Data", 
+    "client_volumetric_folder":"/Users/moadmin/Desktop/Programming_Projects/Petrinex_Analysis/Petrinex Source Data/Volumetrics",
+    "pre_stage":"/Users/moadmin/Desktop/Programming_Projects/Petrinex_Analysis/Petrinex Source Data/Pre_Ingestion_Source_Data" 
+ }   
+
+}
