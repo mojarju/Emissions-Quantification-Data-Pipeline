@@ -1,0 +1,32 @@
+{
+  "emission_factors": {
+    "FUEL": {
+      "CO2": {
+        "value": 0.00233,
+        "unit": "tonnes/m3"
+      },
+      "CH4": {
+        "value": 6.4e-06,
+        "unit": "tonnes/m3"
+      },
+      "N2O": {
+        "value": 6.0e-08,
+        "unit": "tonnes/m3"
+      }
+    },
+    "FLARE": {
+      "CO2": {
+        "value": 2280.0,
+        "unit": "g/m3"
+      },
+      "CH4": {
+        "value": 10.83,
+        "unit": "g/m3"
+      },
+      "N2O": {
+        "value": 0.033,
+        "unit": "g/m3"
+      }
+    }
+  }
+}
